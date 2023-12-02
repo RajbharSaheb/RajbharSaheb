@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://graph.org/file/ea418cc5fc869fe3b65f0.jpg)" alt="RajbharSaheb Logo">
+  <img src="https://graph.org/file/ea418cc5fc869fe3b65f0.jpg" alt="RajbharSaheb Logo">
 </p>
 <h1 align="center">
   RAJBHARSAHEB
